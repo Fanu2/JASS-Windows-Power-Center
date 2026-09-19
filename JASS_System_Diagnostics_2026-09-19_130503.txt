@@ -1,0 +1,62 @@
+JASS System Inspector v1.0
+======================================================================
+Generated: 2026-09-19T13:04:05
+
+SYSTEM
+----------------------------------------------------------------------
+System            : Windows
+Release           : 11
+Version           : 10.0.26200
+Machine           : AMD64
+Hostname          : DESKTOP-6HGQOKP
+Username          : singh
+
+CPU
+----------------------------------------------------------------------
+Name               : Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Cores              : 4
+Logical processors  : 8
+Max clock           : 1800 MHz
+
+MEMORY
+----------------------------------------------------------------------
+Installed           : 7.9 GB
+Used                : 7.0 GB
+Available           : 882.1 MB
+Usage               : 89.1%
+
+GPU
+----------------------------------------------------------------------
+Microsoft Basic Display Adapter
+10.0.26100.1
+
+STORAGE
+----------------------------------------------------------------------
+C:     216.1 GB used / 237.5 GB  (91.0%)  free 21.4 GB
+E:     1.5 TB used / 1.8 TB  (82.6%)  free 324.2 GB
+
+NETWORK
+----------------------------------------------------------------------
+
+DEVELOPMENT ENVIRONMENT
+----------------------------------------------------------------------
+Python:
+  Python 3.14.7
+C:\Users\singh\AppData\Local\Microsoft\WindowsApps\python.EXE
+Git:
+  git version 2.41.0.windows.1
+C:\Program Files\Git\cmd\git.EXE
+Node.js:
+  v24.20.0
+C:\Program Files\nodejs\node.EXE
+npm:
+  Installed
+C:\Program Files\nodejs\npm.CMD
+PowerShell:
+  5.1.26100.9444
+C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.EXE
+Docker:
+  Not installed
+Ollama:
+  ollama version is 0.34.2
+C:\Users\singh\AppData\Local\Programs\Ollama\ollama.EXE
