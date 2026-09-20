@@ -1,8 +1,8 @@
-# JASS Windows Toolkit
+# JASS Windows Power Centre
 
 A collection of lightweight, practical Windows desktop utilities built with **Python + PySide6**.
 
-The **JASS Windows Toolkit** is designed as a growing personal toolkit for file management, document inspection, data exploration, system diagnostics, creative work, and everyday Windows productivity.
+The **JASS Windows Power Centre** is designed as a growing personal toolkit for file management, document inspection, data exploration, system diagnostics, creative work, and everyday Windows productivity.
 
 The applications are intentionally modular: each utility can be run independently and most tools require only Python and PySide6, with additional packages used only where a particular format requires them.
 
